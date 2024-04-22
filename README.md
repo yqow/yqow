@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Reference: https://github.com/Ileriayo/markdown-badges
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=24&duration=4000&color=3891E1&multiline=true&width=450&height=80&lines=Hey%2C+I'm+Marcus+Tan;Computer+Science+Student+at+NUS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=24&duration=4000&color=3891E1&multiline=true&width=450&height=80&lines=Hey%2C+I'm+Ow+Ying+Qian;Mechatronics+Engineering+Student+at+SIT)](https://git.io/typing-svg)
 
 <a href="https://marcustw.github.io/">
   <img  alt="Portfolio" src="https://img.shields.io/badge/-Website-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge" />
